@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: e3c5dc9042b91e247ae534eb7d413bc3
+  - enabled: 1
+    path: Assets/Scenes/Lobi.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/papatya_bahcesi_new.unity
+    guid: 0c518a182dc94384c9db3fa6c883a461
+  - enabled: 1
+    path: Assets/Scenes/Gul_bahcesi.unity
+    guid: bfc60a73bbfb7fb40bfd646876595ed0
+  - enabled: 1
+    path: Assets/Scenes/Lavanta_bahcesi_new.unity
+    guid: 9dc8ef53b46b74b48a6284e9154485e7
+  - enabled: 1
+    path: Assets/Scenes/Sakura_Bahcesi.unity
+    guid: 4d04cd7460be6ee469797614bf44fba5
+  - enabled: 1
+    path: Assets/Scenes/Zambak_bahcesi.unity
+    guid: 7fe2725faac658c42b2844d326c0077a
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: fa37c6ada1078412d9b1fa47bac0dd08, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: c348712bda248c246b8c49b3db54643f, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6435017c9b238469db0916e6f6166178, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 19a3bfabdbef74357985ece2f5b30aa8, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: f2e806c635aec8b47b168796bfc44551, type: 2}
+  m_UseUCBPForAssetBundles: 0

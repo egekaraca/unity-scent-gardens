@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &506652615339670579
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 1b4e42e96d4054f00a481408dce7fe89, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.2917
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1b4e42e96d4054f00a481408dce7fe89, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.2917
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1b4e42e96d4054f00a481408dce7fe89, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.2917
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1b4e42e96d4054f00a481408dce7fe89, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 36.9
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1b4e42e96d4054f00a481408dce7fe89, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.0000019073486
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1b4e42e96d4054f00a481408dce7fe89, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 94.56
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1b4e42e96d4054f00a481408dce7fe89, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1b4e42e96d4054f00a481408dce7fe89, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1b4e42e96d4054f00a481408dce7fe89, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1b4e42e96d4054f00a481408dce7fe89, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1b4e42e96d4054f00a481408dce7fe89, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1b4e42e96d4054f00a481408dce7fe89, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1b4e42e96d4054f00a481408dce7fe89, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1b4e42e96d4054f00a481408dce7fe89, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 5e372547a866e4e84bda543316348dfe, type: 2}
+    - target: {fileID: 919132149155446097, guid: 1b4e42e96d4054f00a481408dce7fe89, type: 3}
+      propertyPath: m_Name
+      value: JapaneseSedge1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 1b4e42e96d4054f00a481408dce7fe89, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3797232744304949924}
+  m_SourcePrefab: {fileID: 100100000, guid: 1b4e42e96d4054f00a481408dce7fe89, type: 3}
+--- !u!1 &848528373794390370 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 1b4e42e96d4054f00a481408dce7fe89, type: 3}
+  m_PrefabInstance: {fileID: 506652615339670579}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &3797232744304949924
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 848528373794390370}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6032e1be41d89264c8eff8d79d22f219, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hiz: 1.4
+  guc: 2
+  rastgelelik: 1
+  varyasyonHizi: 0.5
+  varyasyonKuvveti: 0.7
+  windZone: {fileID: 0}

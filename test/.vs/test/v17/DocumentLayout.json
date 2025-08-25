@@ -1,0 +1,311 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\test\\test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\AromaShooterManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\AromaShooterManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\ConnectManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ConnectManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\OriginalAromaShooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\OriginalAromaShooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\OfflineBanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\OfflineBanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\SerialNumberManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SerialNumberManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\VRSoftKeyboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\VRSoftKeyboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\VRKeyboardTouch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\VRKeyboardTouch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\QuestSystemKeyboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\QuestSystemKeyboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\VRKeyboardOpener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\VRKeyboardOpener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\SeatInteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SeatInteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\HoverColorChange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\HoverColorChange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\AromaShooterManager_Deneme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\AromaShooterManager_Deneme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\SceneManagerUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SceneManagerUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\ReturnPointManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ReturnPointManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\NPCGreeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\NPCGreeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\SceneLoaderXR.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SceneLoaderXR.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\BillboardText.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\BillboardText.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OriginalAromaShooter.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\OriginalAromaShooter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\OriginalAromaShooter.cs",
+              "ToolTip": "C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\OriginalAromaShooter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\OriginalAromaShooter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T08:18:36.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConnectManager.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\ConnectManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ConnectManager.cs",
+              "ToolTip": "C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\ConnectManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ConnectManager.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAiwPUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T16:23:30.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AromaShooterManager.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\AromaShooterManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AromaShooterManager.cs",
+              "ToolTip": "C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\AromaShooterManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AromaShooterManager.cs",
+              "ViewState": "AgIAAF8BAAAAAAAAAAAkwIUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T07:52:38.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OfflineBanner.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\OfflineBanner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\OfflineBanner.cs",
+              "ToolTip": "C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\OfflineBanner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\OfflineBanner.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAiwJ0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T14:21:23.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SerialNumberManager.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\SerialNumberManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SerialNumberManager.cs",
+              "ToolTip": "C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\SerialNumberManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SerialNumberManager.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T08:05:48.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VRKeyboardOpener.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\VRKeyboardOpener.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\VRKeyboardOpener.cs",
+              "ToolTip": "C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\VRKeyboardOpener.cs",
+              "RelativeToolTip": "Assets\\Scripts\\VRKeyboardOpener.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T13:21:18.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuestSystemKeyboard.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\QuestSystemKeyboard.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\QuestSystemKeyboard.cs",
+              "ToolTip": "C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\QuestSystemKeyboard.cs",
+              "RelativeToolTip": "Assets\\Scripts\\QuestSystemKeyboard.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAiwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T13:56:51.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VRSoftKeyboard.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\VRSoftKeyboard.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\VRSoftKeyboard.cs",
+              "ToolTip": "C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\VRSoftKeyboard.cs",
+              "RelativeToolTip": "Assets\\Scripts\\VRSoftKeyboard.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAiwHUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T14:21:55.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VRKeyboardTouch.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\VRKeyboardTouch.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\VRKeyboardTouch.cs",
+              "ToolTip": "C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\VRKeyboardTouch.cs",
+              "RelativeToolTip": "Assets\\Scripts\\VRKeyboardTouch.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAiwIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T08:37:30.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HoverColorChange.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\HoverColorChange.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HoverColorChange.cs",
+              "ToolTip": "C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\HoverColorChange.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HoverColorChange.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwCAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T09:21:33.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AromaShooterManager_Deneme.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\AromaShooterManager_Deneme.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AromaShooterManager_Deneme.cs",
+              "ToolTip": "C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\AromaShooterManager_Deneme.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AromaShooterManager_Deneme.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAiwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T08:00:02.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SeatInteraction.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\SeatInteraction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SeatInteraction.cs",
+              "ToolTip": "C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\SeatInteraction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SeatInteraction.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAiwJ4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T10:53:19.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReturnPointManager.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\ReturnPointManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ReturnPointManager.cs",
+              "ToolTip": "C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\ReturnPointManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ReturnPointManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T07:33:39.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NPCGreeting.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\NPCGreeting.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NPCGreeting.cs",
+              "ToolTip": "C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\NPCGreeting.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NPCGreeting.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T08:41:51.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T08:36:50.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SceneLoaderXR.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\SceneLoaderXR.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneLoaderXR.cs",
+              "ToolTip": "C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\SceneLoaderXR.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneLoaderXR.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T08:13:51.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BillboardText.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\BillboardText.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BillboardText.cs",
+              "ToolTip": "C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\BillboardText.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BillboardText.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T13:23:13.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SceneManagerUI.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\SceneManagerUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneManagerUI.cs",
+              "ToolTip": "C:\\Users\\DELL\\test\\test\\Assets\\Scripts\\SceneManagerUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneManagerUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T11:05:18.2Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
